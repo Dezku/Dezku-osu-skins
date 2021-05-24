@@ -1,4 +1,4 @@
-# Dezku Osu Skins 
+# Dezku osu! Skins 
 
 # Click on the skin name to download
 
